@@ -30,3 +30,9 @@ The objective of the current work is framed as a "Computational and Experimental
 
 ●	Computational Efficiency and Resource Analysis: Analyze the computational efficiency and resource requirements of CNN models, considering scalability and feasibility for widespread clinical deployment in dental caries diagnosis and treatment planning.
 
+# Evalutaion and Testing
+![image](https://github.com/user-attachments/assets/abd4cea1-8685-4bb2-8c01-e3882d8c94e2)
+![image](https://github.com/user-attachments/assets/2cd4bd00-9a4b-4867-bb59-49dc9e5d30d5)
+![image](https://github.com/user-attachments/assets/119e76f5-a8fd-47ba-b084-d45d4617c962)
+![image](https://github.com/user-attachments/assets/5d36534e-f969-423d-b235-39ac93eed320)
+![image](https://github.com/user-attachments/assets/4aeba92d-ecf5-4a5e-b05e-f88b1686370f)
